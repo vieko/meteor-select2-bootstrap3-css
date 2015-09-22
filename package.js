@@ -1,6 +1,6 @@
 Package.describe({
   summary: 'CSS to make Select2 fit in with Bootstrap 3',
-  name: 'metabus:select2-bootstrap3-css',
+  name: 'vieko:select2-bootstrap3-css',
   git: 'https://github.com/zimme/meteor-select2-bootstrap3-css.git',
   version: '1.4.6',
 });
